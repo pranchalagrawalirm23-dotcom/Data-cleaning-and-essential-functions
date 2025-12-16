@@ -1,2 +1,1 @@
-# Data-cleaning-and-essential-functions
-Basic practice of data cleaning related excel formulas
+Logical formulas of Excel and lookup Formulas
